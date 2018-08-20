@@ -3,5 +3,5 @@ The basic idea behind this project is to know how people are reacting to events,
 
 <image src = "https://github.com/chaitanybhardwaj97/Twitter-analysis-with-pie-chart/blob/master/Screenshot%20(68).png">
 <image src = "https://github.com/chaitanybhardwaj97/Twitter-analysis-with-pie-chart/blob/master/New%20Doc%202018-08-20%20(1)_1.jpg">
-<image src = "https://github.com/chaitanybhardwaj97/Twitter-analysis-with-pie-chart/blob/master/New%20Doc%202018-08-20%20_2.jpg">
-<image src = "https://github.com/chaitanybhardwaj97/Twitter-analysis-with-pie-chart/blob/master/New%20Doc%202018-08-20%20_3.jpg">
+<image src = "https://github.com/chaitanybhardwaj97/Twitter-analysis-with-pie-chart/blob/master/New%20Doc%202018-08-20_2.jpg">
+<image src = "https://github.com/chaitanybhardwaj97/Twitter-analysis-with-pie-chart/blob/master/New%20Doc%202018-08-20_3.jpg">
